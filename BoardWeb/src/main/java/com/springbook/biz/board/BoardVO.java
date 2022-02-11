@@ -16,11 +16,11 @@ public class BoardVO {
 	public void setSeq(int seq) {
 		this.seq = seq;
 	}
-	public String getTiltle() {
-		return tiltle;
+	public String getTitle() {
+		return title;
 	}
-	public void setTiltle(String tiltle) {
-		this.tiltle = tiltle;
+	public void setTitle(String tiltle) {
+		this.title = tiltle;
 	}
 	public String getWriter() {
 		return writer;
